@@ -1,0 +1,28 @@
+#products_main_div{
+    width:80%;
+    margin:auto;
+ 
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+#repetitive_demo{
+    margin:1vw;
+    padding:0.5vw;
+    margin-left:1%;
+    background-color: teal;
+   
+}
+#product_image_div_id{
+    width:30vh;
+}
+#product_title_p_id{
+    width:70%;
+    margin:auto;
+}
+#product_image_id{
+    width:96%;
+    object-fit: cover;
+    
+   
+}
